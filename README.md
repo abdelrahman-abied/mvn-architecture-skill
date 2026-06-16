@@ -19,15 +19,15 @@ It is the AI companion to the **[Clean Architecture and MVN with RiverPod](https
 
 ```bash
 # 1) add this repo as a marketplace
-claude plugin marketplace add abdelrahman-abied/mvn-architecture
+claude plugin marketplace add abdelrahman-abied/mvn-architecture-skill
 
 # 2) install the plugin
 claude plugin install mvn-architect@mvn-architecture
 ```
 
-Or interactively inside Claude Code: `/plugin marketplace add abdelrahman-abied/mvn-architecture` then `/plugin install mvn-architect@mvn-architecture`.
+Or interactively inside Claude Code: `/plugin marketplace add abdelrahman-abied/mvn-architecture-skill` then `/plugin install mvn-architect@mvn-architecture`.
 
-> Update `abdelrahman-abied/mvn-architecture` to your actual GitHub `owner/repo` if it differs.
+> Update `abdelrahman-abied/mvn-architecture-skill` to your actual GitHub `owner/repo` if it differs.
 
 ## Use
 

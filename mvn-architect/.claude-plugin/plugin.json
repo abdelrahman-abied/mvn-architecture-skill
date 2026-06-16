@@ -9,7 +9,7 @@
     "url": "https://github.com/abdelrahman-abied"
   },
   "homepage": "https://abdelrahman-abied.github.io/mvn-architecture-pattern/",
-  "repository": "https://github.com/abdelrahman-abied/mvn-architecture",
+  "repository": "https://github.com/abdelrahman-abied/mvn-architecture-skill",
   "license": "Apache-2.0",
   "keywords": ["flutter", "dart", "riverpod", "clean-architecture", "mvn", "notifier"],
   "skills": "./skills/"
