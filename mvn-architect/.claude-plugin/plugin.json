@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mvn-architect",
+  "displayName": "MVN Architect",
+  "version": "1.0.0",
+  "description": "Scaffold, analyze, and refactor Flutter apps using Clean Architecture + the MVN (Model-View-Notifier) pattern with Riverpod codegen. Companion to the 'Clean Architecture and MVN with RiverPod' VSCode extension.",
+  "author": {
+    "name": "Abdulrahman Abied",
+    "url": "https://github.com/abdelrahman-abied"
+  },
+  "homepage": "https://abdelrahman-abied.github.io/mvn-architecture-pattern/",
+  "repository": "https://github.com/abdelrahman-abied/mvn-architecture",
+  "license": "Apache-2.0",
+  "keywords": ["flutter", "dart", "riverpod", "clean-architecture", "mvn", "notifier"],
+  "skills": "./skills/"
+}
