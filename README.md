@@ -27,8 +27,6 @@ claude plugin install mvn-architect@mvn-architecture
 
 Or interactively inside Claude Code: `/plugin marketplace add abdelrahman-abied/mvn-architecture-skill` then `/plugin install mvn-architect@mvn-architecture`.
 
-> Update `abdelrahman-abied/mvn-architecture-skill` to your actual GitHub `owner/repo` if it differs.
-
 ## Use
 
 Once installed, invoke the skill explicitly:
